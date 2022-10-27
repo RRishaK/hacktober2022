@@ -7,6 +7,50 @@
 			let values = [];
 			keys.forEach((key) => {
 				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
+			});		objArray.forEach((row) => {
+			let values = [];
+			keys.forEach((key) => {
+				values.push(row[key] || '');
 			});
 			csv += '\n' + values.join(',');
 		});
